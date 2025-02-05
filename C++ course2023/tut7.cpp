@@ -18,7 +18,7 @@ int main(){
     // *************** float, double and long double Literals ***************
     float d=43.5f;
     long double e=43.5l;
-    cout<<"\n\nThe size of 43.5 is : "<<sizeof(43.5)<<endl;
+    cout<<"\n\nThe size of 43.5 is : "<<sizeof(43.5)<<endl; // by defualt double
     cout<<"The size of 43.5f is : "<<sizeof(43.5f)<<endl;
     cout<<"The size of 43.5F is : "<<sizeof(43.5F)<<endl;
     cout<<"The size of 43.5l is : "<<sizeof(43.5l)<<endl;

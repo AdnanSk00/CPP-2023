@@ -75,7 +75,7 @@ int main()
         //  *********************   Ternary Operator    ********************
 
         v = (x > y) ? (x > z ? x : z) : (y > z ? y : z);
-        cout << v << " is greater";
+        cout << endl << v << " is greater";
 
         return 0;
     }

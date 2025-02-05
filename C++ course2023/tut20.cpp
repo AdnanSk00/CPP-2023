@@ -52,7 +52,7 @@ int main()
         }
         if (i < 1 || i > 5)
         {
-            cout << "You select different option, Try again" << endl;
+            cout << "You selected different option, Try again" << endl;
         }
     }
 

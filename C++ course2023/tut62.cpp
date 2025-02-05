@@ -1,4 +1,4 @@
-// *****************************     File I/O - open() & eof() functions        ****************************
+// ********************     File I/O - open() & eof() functions        **********************
 
 #include<iostream>
 #include<fstream>

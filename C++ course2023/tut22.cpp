@@ -36,7 +36,8 @@ public:
 }b;                        // Object of class(binary) -> b
 
 void binary :: read(void){
-    cout<<"Enter a binary number : ";cin>>s;
+    cout<<"Enter a binary number : ";
+    cin>>s;
 }
 
 void binary :: chk_bin(void){

@@ -13,6 +13,8 @@ int main(){
         }
     }
     cout<<count;
+    cout << "My name is Adnan" << endl;
+    cout << "I am typing on 25th sept 2024" << endl;
     
     return 0;
 }

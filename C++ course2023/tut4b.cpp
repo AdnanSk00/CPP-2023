@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 
-int num = 10;
 int same();
+int num = 10;
 
 int main(){
     int num = 25;

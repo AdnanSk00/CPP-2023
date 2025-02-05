@@ -38,14 +38,14 @@ int main(){
     struct employee addu;    //or      // ep addu;
     // struct employee addy;            // ep addy;
     
-    // adii.eId = 1;
-    // addu.eId = 3;
-    // adii.favChar = 'a';
-    // adii.salary= 120000000;
-    // cout<<" The value is : "<<adii.eId<<endl;
-    // cout<<" The value is : "<<addu.eId<<endl;
-    // cout<<" The value is : "<<adii.favChar<<endl;
-    // cout<<" The value is : "<<adii.salary<<endl;
+    adii.eId = 1;
+    addu.eId = 3;
+    adii.favChar = 'a';
+    adii.salary= 120000000;
+    cout<<" The value is : "<<adii.eId<<endl;
+    cout<<" The value is : "<<addu.eId<<endl;
+    cout<<" The value is : "<<adii.favChar<<endl;
+    cout<<" The value is : "<<adii.salary<<endl;
 
     return 0;
 }

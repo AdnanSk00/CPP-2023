@@ -22,7 +22,7 @@ int main(){
     cout<<"\nThe value of a++ is : "<<a++ <<" "<<a;
     cout<<"\nThe value of a-- is : "<<a-- <<" "<<a;
     cout<<"\nThe value of ++a is : "<<++a <<" "<<a;
-    cout<<"\nThe value of --a is : "<<--a <<" "<<a;
+    cout<<"\nThe value of --a is : "<< --a <<" "<<a;
     cout<<endl<<endl;
 
     // Assignment Opereators  - Used to assign values to variables

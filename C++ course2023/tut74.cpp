@@ -1,4 +1,4 @@
-// ***********************     Function Objects (Functors) in C++ STL    **********************
+// ******************     Function Objects (Functors) in C++ STL    ******************
 
 #include<iostream>
 #include<functional>
